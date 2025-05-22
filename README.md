@@ -162,9 +162,7 @@ graph TD;
     <img src="https://img.shields.io/badge/NetEase%20Music-FF0033?logo=netease-cloud-music&logoColor=white" alt="NetEase Cloud Music" />
   </a>
 </p>
-
 </details>
-
 
 ![badges_37-46.png](src%2Fbadges_37-46.png)
 ![badges_25-36.png](src%2Fbadges_25-36.png)
@@ -174,15 +172,9 @@ graph TD;
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/qyjoy/count.svg">  
 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=qyjoy/qyjoy&type=Date)](https://star-history.com/#qyjoy/qyjoy&Date)
-
-
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
