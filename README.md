@@ -183,5 +183,5 @@ graph TD;
 </p>
 *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 
-[For future hacker...](https://https://radar.cloudflare.com)
+[For future hacker...](https://radar.cloudflare.com)
 ![](assets/Bottom_down.svg)
