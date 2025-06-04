@@ -1,10 +1,9 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,38 +13,32 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: qyjoy
           config_timezone: Europe/Minsk
-#          config_display: columns  # отображать информацию по колонкам
           committer_message: "chore: update metrics"
-          template: classic
-          base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе)
-          plugin_introduction: yes  # общая информация о аккаунте
-#          plugin_sponsors: yes
+          template: classic-rainbow  # 🌈 rainbow 
+          config_presets: "🤹‍♂️ Not so serious"  # 
 
-          plugin_isocalendar: yes  # 3д изокалендарь
-          plugin_isocalendar_duration: full-year  # отображает активность за полный год
+          base: header, activity, community, repositories, metadata
 
-          plugin_languages: yes  # отображение применяемых языков программирования
-          plugin_languages_details: bytes-size, percentage  # дополнительная информация о коде размер и процент
+          plugin_introduction: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-          plugin_achievements: no
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
 
-          plugin_calendar: yes  # отображает активность по годам от текущего и далее
-          plugin_calendar_limit: 11 # отображает активность за столько лет
+          plugin_calendar: yes
+          plugin_calendar_limit: 11
 
-          plugin_habits: yes  # активность за сутки и неделю
-          plugin_habits_facts: yes  # отображает анализ вашей активность за неделю
-          plugin_habits_charts: yes  # отображает характеристики
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
-          plugin_licenses: yes  # информация о лицензиях
-          plugin_licenses_setup: npm ci  # подробная информация о применяемых лицензиях
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
 
-          plugin_skyline: no
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
 
-          plugin_stargazers: yes  # активность за месяц
-          plugin_stargazers_charts_type: chartist  # тип активности - плавные линии
-
-          plugin_support: no  # плагин поддержки
-
-          plugin_topics: yes  # плагин ипсользуемых тем
-          plugin_topics_limit: 0
+          plugin_topics: yes
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
