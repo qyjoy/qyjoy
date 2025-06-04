@@ -35,7 +35,7 @@
 <!-- dark snake ![Qyjoy's github activity graph](https://raw.githubusercontent.com/qyjoy/qyjoy/output/github-contribution-grid-snake-dark.svg) -->
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](/profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
