@@ -28,7 +28,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage  
 
           plugin_achievements: no
-          plugin_reviews: no
+          plugin_contributors: no
           plugin_calendar: yes  
           plugin_calendar_limit: 10
 
