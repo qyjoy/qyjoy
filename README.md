@@ -42,7 +42,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qyjoy&exclude_reviews=true" alt="qyjoy" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qyjoy&exclude=Reviews" alt="qyjoy" /></a>
 </p>
 
 
