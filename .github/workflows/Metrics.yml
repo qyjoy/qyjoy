@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: qyjoy
-          config_timezone: Europe/Minsk
+          config_timezone: Asia/Singapore
           committer_message: "chore: update metrics"
           template: classic-rainbow  # 🌈 rainbow 
           config_presets: "🤹‍♂️ Not so serious"  # 
