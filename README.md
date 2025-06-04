@@ -37,10 +37,6 @@
 <!--   profile-green-animate -->
 ![](/profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qyjoy&title=MultiLanguage,Stars,Commits,Experience,Followers,Repositories,Issues&theme=monokai" alt="qyjoy" /></a>
 </p>
