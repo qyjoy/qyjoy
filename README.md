@@ -151,8 +151,11 @@
     </td>
   </tr>
    <tr>
-    <td valign="top"><strong>Sports</strong></td>
+    <td valign="top"><strong>Others</strong></td>
     <td valign="top">
+      <img src="https://img.shields.io/badge/-Drum%20Kit%20(Jazz drums)-1ABC9C?style=flat" alt="Drum Kit (jazz drums)"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Hulusi-2ECC71?style=flat" alt="Hulusi"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Tengen-9B59B6?style=flat" alt="Tengen"/>&nbsp;
       <img src="https://img.shields.io/badge/-Volleyball-B67549?style=flat" alt="Volleyball"/>&nbsp;
       <img src="https://img.shields.io/badge/-Swimming-498EB6?style=flat" alt="Swimming"/>&nbsp;
       <img src="https://img.shields.io/badge/-Badminton-8A49B6?style=flat" alt="Badminton"/>&nbsp;
