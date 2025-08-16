@@ -48,7 +48,7 @@
   <tr>
     <td valign="top" width="15%"><strong>Computer Science</strong></td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/-Programming%20Concepts-4285F4?style=flat" alt="Programming Concepts"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Programming%20Concepts(Java)-4285F4?style=flat" alt="Programming Concepts"/>&nbsp;
       <img src="https://img.shields.io/badge/-Algorithm%20Design%20&%20Analysis-DB4437?style=flat" alt="Algorithm Design and Analysis"/>&nbsp;
       <img src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-F4B400?style=flat" alt="Data Structures and Algorithms"/>&nbsp;
       <img src="https://img.shields.io/badge/-Discrete%20Mathematics-0F9D58?style=flat" alt="Discrete Mathematics"/>&nbsp;
