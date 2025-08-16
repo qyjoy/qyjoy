@@ -29,10 +29,10 @@
 <!--   green snake -->
 ![Qyjoy's github activity graph](https://raw.githubusercontent.com/qyjoy/qyjoy/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
-| <img src="assets/yale.png" alt="Yale Logo" height="40"/> | <img src="assets/UPM.png" alt="UPM Logo" height="40"/> |
+| <img src="assets/yale.png" alt="We love yale" height="40"/> | <img src="assets/UPM.png" alt="We love UPM" height="40"/> |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Qyjoy's github stats](https://github-readme-stats.vercel.app/api?username=qyjoy&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qyjoy&theme=radical&layout=compact) |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyjoy"></img>                                                           |     <p align="center"><img src="assets/Sheffield.png" alt="Sheffield Logo" height="60"/></p> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyjoy"></img>                                                           |     <p align="center"><img src="assets/Sheffield.png" alt="We love Sheffield" height="60"/></p> |
 <!-- dark snake ![Qyjoy's github activity graph](https://raw.githubusercontent.com/qyjoy/qyjoy/output/github-contribution-grid-snake-dark.svg) -->
 
 <!--   profile-green-animate -->
