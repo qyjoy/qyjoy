@@ -118,7 +118,6 @@
       <img src="https://img.shields.io/badge/-Big%20Data-BF360C?style=flat" alt="Big Data"/>&nbsp;
       <img src="https://img.shields.io/badge/-Computational%20Statistics-3E2723?style=flat" alt="Computational Statistics"/>&nbsp;
       <img src="https://img.shields.io/badge/-Parallel%20Computing-212121?style=flat" alt="Parallel Computing"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Tensor%20Computing-263238?style=flat" alt="Tensor Computing"/>&nbsp;
       <img src="https://img.shields.io/badge/-Database%20Principles-0D47A1?style=flat" alt="Database Principles"/>&nbsp;
       <img src="https://img.shields.io/badge/-Oracle%20SQL-1A237E?style=flat" alt="Oracle SQL"/>&nbsp;
       <img src="https://img.shields.io/badge/-MySQL-311B92?style=flat" alt="MySQL"/>&nbsp;
@@ -140,6 +139,7 @@
   <tr>
     <td valign="top"><strong>Self-Exploration</strong></td>
     <td valign="top">
+      <img src="https://img.shields.io/badge/-Tensor%20Computing-263238?style=flat" alt="Tensor Computing"/>&nbsp;
       <img src="https://img.shields.io/badge/-Shell-a833d9?style=flat" alt="Shell"/>&nbsp;
       <img src="https://img.shields.io/badge/-Lua-33d93d?style=flat" alt="Lua"/>&nbsp;
       <img src="https://img.shields.io/badge/-MCP-d9a233?style=flat" alt="MCP"/>&nbsp;
