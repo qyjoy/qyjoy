@@ -42,97 +42,123 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qyjoy&title=MultiLanguage,Stars,Commits,Experience,Followers,Repositories,Issues&theme=monokai" alt="qyjoy" /></a>
 </p>
 
+## 📚 Courses & Skills Taken
 
-```mermaid
-graph TD;
-    %% Computer Science
-    Computer_Science["Computer Science"] --> Programming_Concepts["Programming Concepts"]
-    Computer_Science --> Algorithm_Design_and_Analysis["Algorithm Design and Analysis"]
-    Computer_Science --> Discrete_Mathematics["Discrete Mathematics"]
-    Computer_Science --> Compiler_Principles["Compiler Principles"]
-    Computer_Science --> Data_Structures_and_Algorithms["Data Structures and Algorithms"]
-    Computer_Science --> Computer_Architecture["Computer Architecture"]
-    Computer_Science --> Operating_Systems["Operating Systems"]
-    Computer_Science --> Python["Python"]
-    Computer_Science --> Java_OOP["Java Object-Oriented Programming"]
-    Computer_Science --> Advanced_Java["Advanced Java Programming"]
-    Computer_Science --> Java_GUI["Java GUI Programming"]
-    Computer_Science --> Cpp_Programming["C++ Programming"]
-    Computer_Science --> Chineseprogramming["Chinese E programming"]
-    Computer_Science --> Code_Audit["Code Audit"]
-    Computer_Science --> Artificial_Intelligence["Artificial Intelligence"]
-    Computer_Science --> Machine_Learning["Machine Learning"]
-    Computer_Science --> High_Performance_Computing["High Performance Computing"]
-
-    %% Networking
-    Networking --> Network_Principles["Network Principles"]
-    Networking --> Computer_Network_and_Communication["Computer Network and Communication"]
-    Networking --> Java_Network_Programming["Java Network Programming"]
-    Networking --> Enterprise_Network_Management["Enterprise Network Management"]
-    Networking --> SDN["SDN"]
-    Networking --> Wireless_Networking["Wireless Networking"]
-    Networking --> Internet_of_Things["Internet of Things"]
-    Networking --> Network_Security["Network Security"]
-    Networking --> Distributed_Systems["Distributed Systems"]
-    Distributed_Systems --> Cloud_Computing["Cloud Computing"]
-    Distributed_Systems --> Fog_Computing["Fog Computing"]
-    Distributed_Systems --> Edge_Computing["Edge Computing"]
-
-    %% Software
-    Software --> Software_Craftsmanship["Software Craftsmanship"]
-    Software --> Software_Engineering["Software Engineering"]
-    Software --> Software_Requirements_Engineering["Software Requirements Engineering"]
-    Software --> UI_Design["UI Design"]
-
-    %% Hardware
-    Hardware --> Semiconductor_Engineering["Semiconductor Engineering"]
-    Hardware --> Computer_Organization["Computer Organization"]
-    Hardware --> Embedded_Systems["Embedded Systems"]
-    Hardware --> Chip_Security["Chip Security"]
-
-    %% Graphics
-    Graphics --> Graphics_Algorithms["Graphics Algorithms"]
-    Graphics --> YOLO["YOLO"]
-    Graphics --> Computer_Vision["Computer Vision"]
-
-    %% Data
-    Data --> Deep_Data_Mining["Deep Data Mining"]
-    Data --> Big_Data["Big Data"]
-    Data --> Computational_Statistics["Computational Statistics"]
-    Data --> Parallel_Computing["Parallel Computing"]
-    Data --> Tensor_Computing["Tensor Computing"]
-    Data --> Database_Principles["Database Principles"]
-    Database_Principles --> Oracle_SQL["Oracle SQL"]
-    Database_Principles --> MySQL["MySQL"]
-
-    %% General Academic Skills
-    General_Academic_Skills["General Academic Skills"] --> Academic_Writing["Academic Writing"]
-    General_Academic_Skills --> Academic_Presentation["Academic Presentation"]
-    General_Academic_Skills --> IELTS_English["IELTS English"]
-    General_Academic_Skills --> TOEFL_English["TOEFL English"]
-    General_Academic_Skills --> PTE_Academic_English["PTE Academic English"]
-    General_Academic_Skills --> American_Slang["American Slang"]
-    General_Academic_Skills --> Basic_Russian["Basic Russian"]
-    General_Academic_Skills --> Basic_Malay["Basic Malay"]
-
-    %% Self-Exploration
-    Self_Exploration["Self-Exploration"] --> Shell["Shell"]
-    Self_Exploration --> Lua["Lua"]
-    Self_Exploration --> MCP["MCP"]
-    Self_Exploration --> A2A["A2A"]
-    Self_Exploration --> Cloudflare_Worker["Cloudflare Worker"]
-    Self_Exploration --> ThreeD_Modeling["3D Modeling"]
-    Self_Exploration --> Game_Anti_Cheat["Game Anti cheat"]
-    Self_Exploration --> Game_Development["Game Development"]
-    Self_Exploration --> Advanced_Video_Editing["Advanced Video Editing"]
-
-    %% Sports
-    Sports --> Volleyball["Volleyball"]
-    Sports --> Swimming["Swimming"]
-    Sports --> Badminton["Badminton"]
-  ```
-
-</p>
+<table>
+  <tr>
+    <td valign="top" width="15%"><strong>Computer Science</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Programming%20Concepts-4285F4?style=flat" alt="Programming Concepts"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Algorithm%20Design%20&%20Analysis-DB4437?style=flat" alt="Algorithm Design and Analysis"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-F4B400?style=flat" alt="Data Structures and Algorithms"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Discrete%20Mathematics-0F9D58?style=flat" alt="Discrete Mathematics"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Compiler%20Principles-9C27B0?style=flat" alt="Compiler Principles"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Computer%20Architecture-673AB7?style=flat" alt="Computer Architecture"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Operating%20Systems-3F51B5?style=flat" alt="Operating Systems"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Python-2196F3?style=flat" alt="Python"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Java%20OOP-03A9F4?style=flat" alt="Java OOP"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Advanced%20Java-00BCD4?style=flat" alt="Advanced Java"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Java%20GUI-009688?style=flat" alt="Java GUI"/>&nbsp;
+      <img src="https://img.shields.io/badge/-C++%20Programming-4CAF50?style=flat" alt="C++ Programming"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Chinese%20E%20programming-8BC34A?style=flat" alt="Chinese E programming"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Code%20Audit-CDDC39?style=flat" alt="Code Audit"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Artificial%20Intelligence-FFEB3B?style=flat&logoColor=black" alt="Artificial Intelligence"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Machine%20Learning-FFC107?style=flat" alt="Machine Learning"/>&nbsp;
+      <img src="https://img.shields.io/badge/-High%20Performance%20Computing-FF9800?style=flat" alt="High Performance Computing"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Networking</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Network%20Principles-FF5722?style=flat" alt="Network Principles"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Computer%20Network%20&%20Communication-795548?style=flat" alt="Computer Network and Communication"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Java%20Network%20Programming-9E9E9E?style=flat" alt="Java Network Programming"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Enterprise%20Network%20Management-607D8B?style=flat" alt="Enterprise Network Management"/>&nbsp;
+      <img src="https://img.shields.io/badge/-SDN-E91E63?style=flat" alt="SDN"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Wireless%20Networking-F44336?style=flat" alt="Wireless Networking"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Internet%20of%20Things-E040FB?style=flat" alt="Internet of Things"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Network%20Security-7C4DFF?style=flat" alt="Network Security"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Distributed%20Systems-536DFE?style=flat" alt="Distributed Systems"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Cloud%20Computing-448AFF?style=flat" alt="Cloud Computing"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Fog%20Computing-40C4FF?style=flat" alt="Fog Computing"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Edge%20Computing-18FFFF?style=flat" alt="Edge Computing"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Software</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Software%20Craftsmanship-64FFDA?style=flat" alt="Software Craftsmanship"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Software%20Engineering-69F0AE?style=flat" alt="Software Engineering"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Software%20Requirements%20Engineering-B2FF59?style=flat" alt="Software Requirements Engineering"/>&nbsp;
+      <img src="https://img.shields.io/badge/-UI%20Design-EEFF41?style=flat&logoColor=black" alt="UI Design"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Hardware</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Semiconductor%20Engineering-FFD740?style=flat" alt="Semiconductor Engineering"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Computer%20Organization-FFAB40?style=flat" alt="Computer Organization"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Embedded%20Systems-FF6E40?style=flat" alt="Embedded Systems"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Chip%20Security-33691E?style=flat" alt="Chip Security"/>&nbsp;
+    </td>
+  </tr>
+    <tr>
+    <td valign="top"><strong>Graphics & Vision</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Graphics%20Algorithms-827717?style=flat" alt="Graphics Algorithms"/>&nbsp;
+      <img src="https://img.shields.io/badge/-YOLO-F57F17?style=flat" alt="YOLO"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat" alt="Computer Vision"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Data & Computing</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Deep%20Data%20Mining-E65100?style=flat" alt="Deep Data Mining"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Big%20Data-BF360C?style=flat" alt="Big Data"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Computational%20Statistics-3E2723?style=flat" alt="Computational Statistics"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Parallel%20Computing-212121?style=flat" alt="Parallel Computing"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Tensor%20Computing-263238?style=flat" alt="Tensor Computing"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Database%20Principles-0D47A1?style=flat" alt="Database Principles"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Oracle%20SQL-1A237E?style=flat" alt="Oracle SQL"/>&nbsp;
+      <img src="https://img.shields.io/badge/-MySQL-311B92?style=flat" alt="MySQL"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Academic & Languages</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Academic%20Writing-4A148C?style=flat" alt="Academic Writing"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Academic%20Presentation-880E4F?style=flat" alt="Academic Presentation"/>&nbsp;
+      <img src="https://img.shields.io/badge/-IELTS%20English-B71C1C?style=flat" alt="IELTS English"/>&nbsp;
+      <img src="https://img.shields.io/badge/-TOEFL%20English-d94f33?style=flat" alt="TOEFL English"/>&nbsp;
+      <img src="https://img.shields.io/badge/-PTE%20Academic-33d98c?style=flat" alt="PTE Academic English"/>&nbsp;
+      <img src="https://img.shields.io/badge/-American%20Slang-d93392?style=flat" alt="American Slang"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Basic%20Russian-3355d9?style=flat" alt="Basic Russian"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Basic%20Malay-8cd933?style=flat" alt="Basic Malay"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Self-Exploration</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Shell-a833d9?style=flat" alt="Shell"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Lua-33d93d?style=flat" alt="Lua"/>&nbsp;
+      <img src="https://img.shields.io/badge/-MCP-d9a233?style=flat" alt="MCP"/>&nbsp;
+      <img src="https://img.shields.io/badge/-A2A-33c5d9?style=flat" alt="A2A"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Cloudflare%20Worker-d97133?style=flat" alt="Cloudflare Worker"/>&nbsp;
+      <img src="https://img.shields.io/badge/-3D%20Modeling-5e33d9?style=flat" alt="3D Modeling"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Game%20Anti%20cheat-d93333?style=flat" alt="Game Anti cheat"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Game%20Development-49B675?style=flat" alt="Game Development"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Advanced%20Video%20Editing-B6496B?style=flat" alt="Advanced Video Editing"/>&nbsp;
+    </td>
+  </tr>
+   <tr>
+    <td valign="top"><strong>Sports</strong></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Volleyball-B67549?style=flat" alt="Volleyball"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Swimming-498EB6?style=flat" alt="Swimming"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Badminton-8A49B6?style=flat" alt="Badminton"/>&nbsp;
+    </td>
+  </tr>
+</table>
 
 <p align="center" style="max-height:2950px;overflow:hidden;">
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
