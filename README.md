@@ -42,8 +42,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qyjoy&title=MultiLanguage,Stars,Commits,Experience,Followers,Repositories,Issues&theme=monokai" alt="qyjoy" /></a>
 </p>
 
-## 📚 Courses & Skills Taken
+## 📚 Courses & Skills Taken 
 
+(I enjoy presenting when well-prepared, but dislike finals with uncooperative teammates😅)
 <table>
   <tr>
     <td valign="top" width="15%"><strong>Computer Science</strong></td>
