@@ -147,7 +147,6 @@
       <img src="https://img.shields.io/badge/-3D%20Modeling-5e33d9?style=flat" alt="3D Modeling"/>&nbsp;
       <img src="https://img.shields.io/badge/-Game%20Anti%20cheat-d93333?style=flat" alt="Game Anti cheat"/>&nbsp;
       <img src="https://img.shields.io/badge/-Game%20Development-49B675?style=flat" alt="Game Development"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Advanced%20Video%20Editing-B6496B?style=flat" alt="Advanced Video Editing"/>&nbsp;
     </td>
   </tr>
    <tr>
@@ -159,6 +158,7 @@
       <img src="https://img.shields.io/badge/-Volleyball-B67549?style=flat" alt="Volleyball"/>&nbsp;
       <img src="https://img.shields.io/badge/-Swimming-498EB6?style=flat" alt="Swimming"/>&nbsp;
       <img src="https://img.shields.io/badge/-Badminton-8A49B6?style=flat" alt="Badminton"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Advanced%20Video%20Editing-B6496B?style=flat" alt="Advanced Video Editing"/>&nbsp;
     </td>
   </tr>
 </table>
