@@ -58,7 +58,7 @@
       <img src="https://img.shields.io/badge/-Operating%20Systems-3F51B5?style=flat" alt="Operating Systems"/>&nbsp;
       <img src="https://img.shields.io/badge/-Python-2196F3?style=flat" alt="Python"/>&nbsp;
       <img src="https://img.shields.io/badge/-Java%20OOP-03A9F4?style=flat" alt="Java OOP"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Advanced%20Java-00BCD4?style=flat" alt="Advanced Java"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Java-00BCD4?style=flat" alt="Java"/>&nbsp;
       <img src="https://img.shields.io/badge/-Java%20GUI-009688?style=flat" alt="Java GUI"/>&nbsp;
       <img src="https://img.shields.io/badge/-C++%20Programming-4CAF50?style=flat" alt="C++ Programming"/>&nbsp;
       <img src="https://img.shields.io/badge/-Chinese%20E%20programming-8BC34A?style=flat" alt="Chinese E programming"/>&nbsp;
@@ -88,9 +88,8 @@
   <tr>
     <td valign="top"><strong>Software</strong></td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/-Software%20Craftsmanship-64FFDA?style=flat" alt="Software Craftsmanship"/>&nbsp;
       <img src="https://img.shields.io/badge/-Software%20Engineering-69F0AE?style=flat" alt="Software Engineering"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Software%20Requirements%20Engineering-B2FF59?style=flat" alt="Software Requirements Engineering"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Software%20Architecture%20&%20Requirements-B2FF59?style=flat" alt="Software Architecture & Requirements"/>&nbsp;
       <img src="https://img.shields.io/badge/-UI%20Design-EEFF41?style=flat&logoColor=black" alt="UI Design"/>&nbsp;
     </td>
   </tr>
