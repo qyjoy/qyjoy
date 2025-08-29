@@ -188,6 +188,9 @@
   <a href="https://music.163.com/artist?id=96130566" target="_blank">
     <img src="https://img.shields.io/badge/NetEase%20Music-FF0033?logo=netease-cloud-music&logoColor=white" alt="NetEase Cloud Music" />
   </a>
+  <a href="https://y.qq.com/n/ryqq/singer/001CtpY73njytK" target="_blank">
+    <img src="https://img.shields.io/badge/Tencent%20Music-FF0033?logo=applemusic&logoColor=green" alt="Tencent Music" />
+  </a>
 </p>
 </details>
 
