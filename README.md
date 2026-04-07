@@ -168,30 +168,6 @@
 
 <details>
 <summary><b>✨ Click to view my Social Media ✨</b></summary>
-
-<p align="center">
-  <a href="https://www.youtube.com/@QingYinJoy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://dlink.host/sharepoint/aHR0cHM6Ly80YzJ4ZHQtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvYWRtaW5fNGMyeGR0X29ubWljcm9zb2Z0X2NvbS9FZkhESkJHOV9fTkVzdnVMWmF5LV9ac0I2VUlXNnA0NDdEYXFxRE1FQmQ4VFl3P2U9T2Jjc1JC.png" target="_blank">
-    <img src="https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white" alt="WeChat" />
-  </a>
-  <a href="https://discord.gg/MuWYY47Ftk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAnSML_sObNCsyovRMZcRleFAvWCy_c11yR-cCbEW8zHva71o2FcxaQBW5og4mqUc-" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok/抖音" />
-  </a>
-  <a href="https://space.bilibili.com/3546374788352322" target="_blank">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff" alt="Bilibili" />
-  </a>
-  <a href="https://music.163.com/artist?id=96130566" target="_blank">
-    <img src="https://img.shields.io/badge/NetEase%20Music-FF0033?logo=netease-cloud-music&logoColor=white" alt="NetEase Cloud Music" />
-  </a>
-  <a href="https://y.qq.com/n/ryqq/singer/001CtpY73njytK" target="_blank">
-    <img src="https://img.shields.io/badge/Tencent%20Music-27D6F5?logo=applemusic&logoColor=yellow" alt="Tencent Music" />
-  </a>
-</p>
 </details>
 
 ![badges_37-46.png](src%2Fbadges_37-46.png)
