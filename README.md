@@ -32,7 +32,7 @@
 <!--   stats + languages -->
 | <img src="assets/yale.png" alt="We love yale" height="40"/> | <img src="assets/UPM.png" alt="We love UPM" height="40"/> |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Qyjoy's github stats](https://github-stats-extended.vercel.app/api?username=qyjoy&custom_title=stats&include_all_commits=true&theme=shadow_green) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qyjoy&theme=radical&layout=compact) |
+| ![Qyjoy's github stats](https://github-stats-extended.vercel.app/api?username=qyjoy&custom_title=stats&include_all_commits=true&theme=shadow_green) | ![Quiec's github stats](https://github-stats-extended.vercel.app/api/top-langs?username=qyjoy&langs_count=5&theme=buefy) |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyjoy"></img> | <img src="https://tryhackme-badges.s3.amazonaws.com/Qyjoy.png" alt="Tryhackme" />|
 <!-- dark snake ![Qyjoy's github activity graph](https://raw.githubusercontent.com/qyjoy/qyjoy/output/github-contribution-grid-snake-dark.svg) -->
 
