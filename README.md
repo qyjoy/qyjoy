@@ -45,7 +45,6 @@
 
 ## 📚 Courses & Skills Taken 
 
-(I enjoy presenting when well-prepared in final, but dislike with uncooperative teammates😅)
 <table>
   <tr>
     <td valign="top" width="15%"><strong>Computer Science</strong></td>
